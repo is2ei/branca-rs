@@ -1,0 +1,6 @@
+[package]
+name = "branca"
+version = "0.1.0"
+authors = ["Issei Horie <issei.horie@nulab-inc.com>"]
+
+[dependencies]
